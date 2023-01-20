@@ -1,0 +1,14 @@
+{
+  "name": "frappe_connect",
+  "version": "1.0.0",
+  "description": "Instant messaging platform for professionals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd connect && yarn dev",
+    "build": "cd connect && yarn build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

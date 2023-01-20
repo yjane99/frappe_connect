@@ -190,3 +190,5 @@ app_license = "MIT"
 # auth_hooks = [
 #	"frappe_connect.auth.validate"
 # ]
+
+website_route_rules = [{'from_route': '/connect/<path:app_path>', 'to_route': 'connect'},]

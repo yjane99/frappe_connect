@@ -3,4 +3,14 @@
 *.egg-info
 *.swp
 tags
-node_modules
+frappe_connect/docs/current
+
+*.py[cod]
+*.log
+node_modules/
+dist/
+frappe_connect/public/mab
+frappe_connect/public/node_modules
+frappe_connect/www/mab.html
+
+.vscode/*
